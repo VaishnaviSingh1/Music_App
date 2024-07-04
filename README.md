@@ -17,21 +17,13 @@ Enjoy your Favorite tunes in a minimalist interface designed for a seamless musi
 -----------------------------------------------------------------
 
 - **Intuitive Interface:** Enjoy a user-friendly interface that makes navigation and music control a breeze.
-- 
 - **Dynamic Songs Transition:** Currently playing song comes to life with an interactive design, adding a visual touch to your music experience.
-- 
 - **Search Functionality:** Easily find and play your desired tracks with the built-in search option.
-- 
 - **Responsive Design:** Moonsic adapts to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
-- 
 - **Hover Animation:** When you hover over a playlist tile, experience a subtle elevation effect and glow, making it feel like the tile is coming out of the screen.
-- 
 - **Seek Bar Feature:** Drag the seek bar to jump to different parts of the song, giving you full control over your music playback.
-- 
 - **Volume Slider:** Adjust the volume seamlessly with a smooth slider. Keep it low for a mellow atmosphere or crank it up for a lively vibe.
-- 
 - **Featured Song and Artist:** Play featured songs as well as follow your favorite artist on social media.
-- 
 
 ## Infinite Playback Controls
 ---------------------------------------------------------------------------------
